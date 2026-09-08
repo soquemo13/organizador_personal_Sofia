@@ -4,3 +4,5 @@
 • Pasos de instalación 
 • Dependencias 
 • Autor
+• Estado
+
